@@ -1,0 +1,12 @@
+name: learnml
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - pip
+  - pip:
+    - scipy
+    - notebook
+    - tensorboardX
+    - ipywidgets
+    - scikit-learn
