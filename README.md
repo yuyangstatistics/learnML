@@ -3,6 +3,7 @@ This repository contains experiments to understand Machine Learning concepts and
 
 # Environment Setup
 1. Create the conda environment: `conda env create -f environment.yml`.
+2. Install pytorch locally on Mac: `pip install torch torchvision torchaudio`.
 
 ------------------------------
 
@@ -12,5 +13,7 @@ This repository contains experiments to understand Machine Learning concepts and
 
 ### References
 - [FACIAL RECOGNITION WITH A RESTRICTED BOLTZMANN MACHINE](https://www.gregcondit.com/projects/rbm)
+- [Beginner's Guide to Boltzmann Machines in PyTorch](https://blog.paperspace.com/beginners-guide-to-boltzmann-machines-pytorch/)
+
 
 

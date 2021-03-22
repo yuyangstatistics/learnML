@@ -10,3 +10,4 @@ dependencies:
     - tensorboardX
     - ipywidgets
     - scikit-learn
+    - scikit-image
